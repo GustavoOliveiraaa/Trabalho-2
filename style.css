@@ -1,0 +1,37 @@
+p {
+    color: red;
+}
+.a1 {
+    color: blue;
+}
+.cor2 {
+    background: green;
+}
+body {
+    background: #999999;
+    background-image: url(https://s3.amazonaws.com/media-theglassfiles-com/media/images/000/003/420/preview/artwork_20190709-152426?1562687236);
+    background-repeat: no-repeat;
+    background-size: 60%;
+    background-position: top;
+}
+h1 {
+    background: yellow;
+}
+h2 {
+    height: 150px;
+    text-align: center;
+}
+.cor1 {
+    height: 100px;
+    width: 200px;
+    margin: auto;
+}
+a {
+    text-decoration: none;
+}
+h3 {
+    color: blue;
+    font-family: Arial;
+    font-size: 36px;
+    text-align: center;
+}
